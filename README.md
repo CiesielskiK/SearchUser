@@ -1,1 +1,2 @@
-# SearchUser
+# Wyszukiwarka userów na github
+
